@@ -22,4 +22,4 @@ You can return to the main menu at any time by clicking the "Back to Menu" butto
 
 The objective of the game is to test your ability to sort numbers in ascending order and see how many games you can win based on the selected game mode. The more text fields you have, the more challenging the game becomes. Enjoy playing!
 
-Note: th exe file does not work correctly if the scale in Windows Settings is different from 100%.
+Note: The exe file does not work correctly if the scale in Windows Settings is different from 100%.
