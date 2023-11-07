@@ -1,0 +1,66 @@
+    .root {
+        -fx-background-color: #93d7d9b8;
+        -fx-font-family: 'Verdana';
+    }
+
+    #root-pane {
+        -fx-padding: 10;
+    }
+
+    .label {
+        -fx-font-size: 18px;
+        -fx-text-fill: #333;
+        -fx-font-family: 'Helvetica';
+    }
+
+        .title-label {
+            -fx-font-family: 'Helvetica';
+            -fx-font-size: 60px;
+            -fx-text-fill: #005266;
+            -fx-font-weight: bold;
+        }
+
+        .version-label {
+            -fx-font-size: 15px;
+        }
+
+
+    .button {
+        -fx-background-color: #9ed79e;
+        -fx-text-fill: white;
+        -fx-font-family: 'Verdana';
+    }
+
+    .button:hover {
+        -fx-background-color: #87d187;
+    }
+
+    .button:disabled {
+        -fx-background-color: #d95a5ab8;
+    }
+
+    .text-field {
+        -fx-font-size: 16px;
+        -fx-pref-width: 70px;
+        -fx-pref-height: 40px;
+        -fx-background-color: #dbdbdb;
+    }
+    
+    #customTextField {
+        -fx-prompt-text-fill: derive(-fx-control-inner-background, -30%);
+        -fx-alignment: center;
+    }
+    
+    .scroll-pane {
+        -fx-background: #b1e2e3;
+        -fx-border-color: #bbbbbb;
+
+    }
+
+    .grid-pane-with-border {
+        -fx-border-color: #bbbbbb;
+        -fx-border-width: 1px;
+        -fx-border-style: solid;
+    }
+    
+    
